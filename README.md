@@ -2,7 +2,7 @@
 - 👀 I’m interested in PHP and Js
 - 🌱 I’m currently learning PHP and Js
 - 💞️ I'm looking to collaborate with everyone
-- 📫 cContact me by email: vuducduong193@gmail.com
+- 📫 Contact me by email: vuducduong193@gmail.com
 
 <!---
 vuducduong/vuducduong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
